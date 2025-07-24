@@ -20,11 +20,10 @@ Understanding how salary scales with experience is essential in:
 
 📌 Recognizing under- or over-valued offers
 
-This project can serve as a data-driven anchor in career planning or interview prep.
+This project can serve as a data-driven foundation for career planning or interview preparation.
 
 📁 Files Included
 PredictionModel_TechSalary.csv – Clean dataset used in the regression.
-
 
 README.md – You're reading it.
 
