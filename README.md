@@ -1,31 +1,31 @@
-# Linear-Regression-Salary-Comp
-📈 Linear Regression | 🧠 Career Planning | 📊 Real Data (CA, TX, NY)
-This project uses a simple linear regression model to estimate salary expectations based on years of experience in the technology sector. Built entirely in Google Sheets and exported as a clean CSV, this tool is designed for transparency and strategic job market positioning.
+📈 Salary Prediction Model – Job Market Prep with Linear Regression
+This project uses a simple linear regression model to predict salary based on years of experience in the technology sector, using real-world data from California, Texas, and New York.
 
-🧩 Project Summary
-Goal: Estimate fair salary expectations for tech professionals using regression modeling.
+💡 Why This Matters
+I built this model as part of my job search to benchmark salary expectations and make data-informed decisions. While the model is simple, the goal is serious: use data to drive better career and compensation strategy.
 
-Method: Linear regression of salary vs. years worked.
+🔍 Sometimes, it's not the complexity of the model that matters—but its clarity, purpose, and precision.
 
-Scope: Focused on real-world tech salaries in California, Texas, and New York.
+⚙️ Methodology
+Tool: Google Sheets (regression formula & visualization)
 
-Outcome: A model that can support discussions around compensation expectations during interviews and job negotiations.
+Input: Public salary datasets from tech roles
 
-🔍 Why It Matters
-Understanding how salary scales with experience is essential in:
+Output: A predicted salary based on years of experience
 
-📌 Preparing for compensation questions
+Format: CSV and visual chart
 
-📌 Setting realistic targets
+Target: Mid to senior-level roles (10–20 years experience)
 
-📌 Recognizing under- or over-valued offers
+🧠 Use Case
+This model was developed to:
 
-This project can serve as a data-driven foundation for career planning or interview preparation.
+Guide salary negotiation conversations
 
-📁 Files Included
-PredictionModel_TechSalary.csv – Clean dataset used in the regression.
+Anchor expectations for senior tech roles in FinTech, AI, and product
 
-README.md – You're reading it.
+Show how even basic statistical models can support real decisions
 
-✅ Example Output
-💬 "According to my regression model using real-world tech salary data from CA, TX, and NY, a fair salary for someone with 15 years of experience in this market trends toward $X."
+🚀 Key Insight
+"I used this model to back up my own salary ask. That’s the power of simple data science—right where it matters most."
+
