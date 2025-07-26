@@ -31,5 +31,12 @@
 
 
 ## **🚀 Key Insight**
-- "I used this model to help friends back their own salary ask. That’s the power of simple data science—right where it matters most."
 
+
+### What is Linear Regression?
+
+- Linear regression is a statistical method that models the relationship between variables by fitting a straight line through the data points. This technique assumes a linear relationship between the input features and the target variable, making it ideal for predicting continuous outcomes like salary ranges.
+
+- The model predicts values along a continuous scale, meaning the output can be any numerical value within the range of possibilities. Linear regression uses Ordinary Least Squares (OLS) as its optimization method, which finds the best-fitting line by minimizing the sum of squared differences between predicted and actual values.
+
+- This straightforward yet powerful approach makes linear regression an excellent starting point for understanding predictive modeling and serves as a valuable tool for salary estimation based on relevant job market factors.
